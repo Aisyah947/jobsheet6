@@ -15,7 +15,7 @@ public class Pemilihan2Percobaan2_17 {
         System.out.println("2. Ice Tea");
         System.out.println("3. Paket Bunding (Ricebowl + Ice Tea)");
         System.out.println("--------------------------------------");
-        System.out.println("masukkan angka dari menu yang dipilih = ");
+        System.out.print("masukkan angka dari menu yang dipilih = ");
         pilihan_menu = input17.nextInt();
         input17.nextLine();
         System.out.print("Apakah punya member (y/n) ? = ");
